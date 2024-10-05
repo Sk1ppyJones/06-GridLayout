@@ -1,0 +1,24 @@
+/*
+Dark Green: #5B7553
+Black: #040403
+Darker Blue: #8EB897
+Light Green: #C3E8BD
+Bright Green: #9DDBAD
+*/
+
+
+body {
+    background: #8EB897;
+}
+
+.header {
+    background: #5B7553; /*Dark Green*/
+    color: #8EB897;
+    border: .5em solid #8EB897;
+}
+
+
+.footer {
+    background: #5B7553;
+    color: #8EB897;
+}
