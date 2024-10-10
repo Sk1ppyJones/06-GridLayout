@@ -17,6 +17,10 @@ body {
     border: .5em solid #8EB897;
 }
 
+.why-choose h2 {
+    border: .5em solid #5B7553;
+    border-radius: 5em;
+}
 
 .footer {
     background: #5B7553;
